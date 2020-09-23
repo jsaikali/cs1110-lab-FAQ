@@ -7,6 +7,8 @@
 - [What is section for?](#what-is-section-for)
 - [Is attendance mandatory?](#is-attendance-mandatory)
 - [So, if I am finished with the lab I'm supposed to be working on (due next time), can I leave?](#so-if-i-am-finished-with-the-lab-im-supposed-to-be-working-on-due-next-time-can-i-leave)
+- [Who are the lab staff members?](#who-are-the-lab-staff-members)
+- [Who do I talk to about grading issues / extensions?](#who-do-i-talk-to-about-grading-issues--extensions)
 - [Do labs count towards my course grade?](#do-labs-count-towards-my-course-grade)
 - [Can I have a breakout room to discuss a question I have in private?](#can-i-have-a-breakout-room-to-discuss-a-question-i-have-in-private)
 - [What are "manual grade" modules?](#what-are-manual-grade-modules)
@@ -25,6 +27,16 @@ Not always, but **you will need to attend lab on days where there are manual que
 
 ### So, if I am finished with the lab I'm supposed to be working on (due next time), can I leave?  
 Sure! Have a great day.   
+
+### Who are the lab staff members?   
+Joanna is your Lab Instructor (TA), and your Consultants are:   
+- Rachel, Ellie, Al for Section 206  
+- Yunus, Chris, Ryan, Vianca for Section 218   
+All staff members are happy to help you with your lab questions!  
+
+### Who do I talk to about grading issues / extensions?  
+Note that we do not give extensions freely, unless there truly is an extenuating circumstance. 
+Only Joanna can grant extensions and handle grading issues. Joanna cannot grant extensions for Assignments - only for Labs. If you have a personal grading/extension question offline or during lab, be sure to discuss it with Joanna.     
 
 ### Do labs count towards my course grade?
 Labs are not factored into your final score for the class, but if you miss more than 2 labs we reserve the right to dock your final letter grade for the course. That being said, I would definitely recommend doing all your labs, because they prepare you for the assignments which do count towards your grade!  
