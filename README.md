@@ -14,6 +14,7 @@
 - [What are "manual grade" modules?](#what-are-manual-grade-modules)
 - [How do I get checked off for "manual grade" questions?](#how-do-i-get-checked-off-for-manual-grade-questions)
 - [I was just in a breakout room but my lab still isn't checked off.](#i-was-just-in-a-breakout-room-but-my-lab-still-isnt-checked-off)
+- [I did not know I was supposed to attend lab to get checked off for manual questions, what should I do?](#i-did-not-know-i-was-supposed-to-attend-lab-to-get-checked-off-for-manual-questions-what-should-i-do)
 - [I joined late and didn't get checked off for manual questions. What should I do?](#i-joined-late-and-didnt-get-checked-off-for-manual-questions-what-should-i-do)
 - [I have a question that didn't get answered in lab, what do I do?](#i-have-a-question-that-didnt-get-answered-in-lab-what-do-i-do)
 
@@ -52,6 +53,9 @@ At the beginning of section on the lab's due date, we will assign breakout rooms
 
 ### I was just in a breakout room but my lab still isn't checked off.
 Make sure you refresh the page at the end of the breakout room to see if you have been checked off. Also note that the individual manual questions might say "NOT GRADED," but this is normal, as long as the whole module says "COMPLETE". If this is not the case, let Joanna know.  
+
+### I did not know I was supposed to attend lab to get checked off for manual questions, what should I do?
+If people are missing manual grade checks for labs 1-4 because not there, we are excusing it this ONE TIME ONLY, provided that there is an answer there. Let Joanna know that you need these items graded. For lab 5 onwards, we won't be retroactively checking off manual questions (you should know by now that you need to attend section).  
 
 ### I joined late and didn't get checked off for manual questions. What should I do?  
 **If you are late you will wait.** I will check off latecomers when everyone else has gotten their lab questions answered, which may be at the very end of lab. Do **NOT** add yourself to the "Lab Help" googlesheet to get checked off - that is for actual lab-specific questions, not late check-offs. To alert Joanna that you have come late and need to get checked off, send a message in the chat to let her know, but do not expect to be checked off until other students' questions have been answered. She will grade your manual questions at the end along with other latecomers.  
