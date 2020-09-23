@@ -1,21 +1,21 @@
+# CS1110 LAB POLICIES / FAQs
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-- [CS1110 LAB POLICIES / FAQs](#cs1110-lab-policies--faqs)
-    - [What is section for?](#what-is-section-for)
-    - [Is attendance mandatory?](#is-attendance-mandatory)
-    - [So, if I am finished with the lab I'm supposed to be working on (due next time), can I leave?](#so-if-i-am-finished-with-the-lab-im-supposed-to-be-working-on-due-next-time-can-i-leave)
-    - [Can I have a breakout room to discuss a question I have in private?](#can-i-have-a-breakout-room-to-discuss-a-question-i-have-in-private)
-    - [What are "manual grade" modules?](#what-are-manual-grade-modules)
-    - [How do I get checked off for "manual grade" questions?](#how-do-i-get-checked-off-for-manual-grade-questions)
-    - [I was just in a breakout room but my lab still isn't checked off.](#i-was-just-in-a-breakout-room-but-my-lab-still-isnt-checked-off)
-    - [I joined late and didn't get checked off for manual questions. What should I do?](#i-joined-late-and-didnt-get-checked-off-for-manual-questions-what-should-i-do)
-    - [I have a question that didn't get answered in lab, what do I do?](#i-have-a-question-that-didnt-get-answered-in-lab-what-do-i-do)
+- [What is section for?](#what-is-section-for)
+- [Is attendance mandatory?](#is-attendance-mandatory)
+- [So, if I am finished with the lab I'm supposed to be working on (due next time), can I leave?](#so-if-i-am-finished-with-the-lab-im-supposed-to-be-working-on-due-next-time-can-i-leave)
+- [Do labs count towards my course grade?](#do-labs-count-towards-my-course-grade)
+- [Can I have a breakout room to discuss a question I have in private?](#can-i-have-a-breakout-room-to-discuss-a-question-i-have-in-private)
+- [What are "manual grade" modules?](#what-are-manual-grade-modules)
+- [How do I get checked off for "manual grade" questions?](#how-do-i-get-checked-off-for-manual-grade-questions)
+- [I was just in a breakout room but my lab still isn't checked off.](#i-was-just-in-a-breakout-room-but-my-lab-still-isnt-checked-off)
+- [I joined late and didn't get checked off for manual questions. What should I do?](#i-joined-late-and-didnt-get-checked-off-for-manual-questions-what-should-i-do)
+- [I have a question that didn't get answered in lab, what do I do?](#i-have-a-question-that-didnt-get-answered-in-lab-what-do-i-do)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-# CS1110 LAB POLICIES / FAQs
 
 ### What is section for?  
 Section is a structured time for you to work on the lab that was released the day before. The advantages of coming to lab is that you have TAs and Consultants at your disposal to ask questions as they come up.  
@@ -25,6 +25,9 @@ Not always, but **you will need to attend lab on days where there are manual que
 
 ### So, if I am finished with the lab I'm supposed to be working on (due next time), can I leave?  
 Sure! Have a great day.   
+
+### Do labs count towards my course grade?
+Labs are not factored into your final score for the class, but if you miss more than 2 labs we reserve the right to dock your final letter grade for the course. That being said, I would definitely recommend doing all your labs, because they prepare you for the assignments which do count towards your grade!  
 
 ### Can I have a breakout room to discuss a question I have in private?  
 Yes. But you have to add yourself to the "Lab Help" GoogleSheet (Joanna sends the link out in the Chat), so we can streamline the process. It is the same GoogleSheet each time, but I add a new tab to it just before lab, so feel free to bookmark it. **When you come back to the main room, let the TA in there know that you're back (so she can send someone else to that breakout room).**    
