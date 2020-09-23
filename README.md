@@ -5,6 +5,7 @@
 - [CS1110 LAB POLICIES / FAQs](#cs1110-lab-policies--faqs)
     - [What is section for?](#what-is-section-for)
     - [Is attendance mandatory?](#is-attendance-mandatory)
+    - [So, if I am finished with the lab I'm supposed to be working on (due next time), can I leave?](#so-if-i-am-finished-with-the-lab-im-supposed-to-be-working-on-due-next-time-can-i-leave)
     - [Can I have a breakout room to discuss a question I have in private?](#can-i-have-a-breakout-room-to-discuss-a-question-i-have-in-private)
     - [What are "manual grade" modules?](#what-are-manual-grade-modules)
     - [How do I get checked off for "manual grade" questions?](#how-do-i-get-checked-off-for-manual-grade-questions)
@@ -20,10 +21,13 @@
 Section is a structured time for you to work on the lab that was released the day before. The advantages of coming to lab is that you have TAs and Consultants at your disposal to ask questions as they come up.  
 
 ### Is attendance mandatory?  
-You will need to attend lab on days where there are manual questions for the lab due on that day. So if Lab X is due today, and there are manual questions on that Lab X, you will need to attend today to discuss your responses. A staff member will give you credit during lab.  
+Not always, but **you will need to attend lab on days where there are manual questions** for the lab due on that day. So if Lab X is due today, and there are manual questions on that Lab X, you will need to attend today to discuss your responses. A staff member will give you credit during lab.  
+
+### So, if I am finished with the lab I'm supposed to be working on (due next time), can I leave?  
+Sure! Have a great day.   
 
 ### Can I have a breakout room to discuss a question I have in private?  
-Yes. But you have to add yourself to the "Lab Help" GoogleSheet that I send out at the beginning of each section, so we can streamline the process. It is the same GoogleSheet each time, but I add a new tab to it just before lab, so feel free to bookmark it.  
+Yes. But you have to add yourself to the "Lab Help" GoogleSheet (Joanna sends the link out in the Chat), so we can streamline the process. It is the same GoogleSheet each time, but I add a new tab to it just before lab, so feel free to bookmark it. **When you come back to the main room, let the TA in there know that you're back (so she can send someone else to that breakout room).**    
 
 ### What are "manual grade" modules?  
 These are modules that are not graded by the autograder, because the questions ask for your thoughts/opinions. You will discuss your answers and get checked off in section on the day that the lab is due, so be sure to attend lab that day.  
@@ -32,7 +36,7 @@ These are modules that are not graded by the autograder, because the questions a
 At the beginning of section on the lab's due date, we will assign breakout rooms with a group of students + 1 staff member to discuss the lab. You do not need to add anything to the "Lab Help" sheet - everyone is automatically assigned to breakouts at the start of section. Send your NET ID to your breakout room so the staff member can check you off in the lab system. The module should be marked as COMPLETE by the time you leave section.    
 
 ### I was just in a breakout room but my lab still isn't checked off.
-Make sure you refresh the page at the end of the breakout room to see if you have been checked off. Also note that the individual manual questions might say "NOT GRADED" but this is normal, as long as the whole module says "COMPLETE". If this is not the case, let Joanna know.  
+Make sure you refresh the page at the end of the breakout room to see if you have been checked off. Also note that the individual manual questions might say "NOT GRADED," but this is normal, as long as the whole module says "COMPLETE". If this is not the case, let Joanna know.  
 
 ### I joined late and didn't get checked off for manual questions. What should I do?  
 **If you are late you will wait.** I will check off latecomers when everyone else has gotten their lab questions answered, which may be at the very end of lab. Do **NOT** add yourself to the "Lab Help" googlesheet to get checked off - that is for actual lab-specific questions, not late check-offs. To alert Joanna that you have come late and need to get checked off, send a message in the chat to let her know, but do not expect to be checked off until other students' questions have been answered. She will grade your manual questions at the end along with other latecomers.  
